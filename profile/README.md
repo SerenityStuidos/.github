@@ -26,6 +26,12 @@ Welcome to Serenity, a multifunctional Discord bot designed to enhance your serv
 ## Version 3 (Upcoming)
 Serenity Version 3 will introduce a complete bot rework and even more features and commands, providing a more intuitive and streamlined interaction experience. Stay tuned for updates and enhancements!
 
+## Development Team
+- [@iMerciless](https://github.com/iMercilessly)
+- [@JuicyOrange](https://www.github.com/JuicyOrange0615)
+- [@MaxJ](https://github.com/maxjackson2)
+- [@Blushae](https://github.com/blushae)
+
 ## Support
 For any questions, issues, or feedback, please join our [support server]([#](https://discord.gg/AKH5yUmJcz)) or contact our development team directly.
 
