@@ -15,7 +15,7 @@ Welcome to Serenity, a multifunctional Discord bot designed to enhance your serv
 
 ## Usage
 1. **Adding Serenity to Your Server**:
-   - [Click here]([#](https://discord.com/oauth2/authorize?client_id=1217168693327429845)) to invite Serenity to your Discord server.
+   - [Click here](https://discord.com/oauth2/authorize?client_id=1217168693327429845) to invite Serenity to your Discord server.
    
 2. **Command Prefix**: The default command prefix for Serenity is `.`.
 
