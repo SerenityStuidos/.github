@@ -1,6 +1,6 @@
 # Serenity Discord Bot
 
-Welcome to Serenity, a multifunctional Discord bot designed to enhance your server experience. This README provides an overview of Serenity, its features, and how to use it in your Discord server.
+Welcome to Serenity, a multifunctional Discord bot designed to enhance your server experience. This README provides an overview of Serenity, its features, and how to use it in your Discord server. Along with all our projects that we've undertaken!
 
 ## Features
 - **Moderation**: Keep your server safe and clean with moderation commands.
@@ -15,7 +15,7 @@ Welcome to Serenity, a multifunctional Discord bot designed to enhance your serv
 
 ## Usage
 1. **Adding Serenity to Your Server**:
-   - [Click here]([#](https://discord.com/oauth2/authorize?client_id=1217168693327429845)) to invite Serenity to your Discord server.
+   - [Click here](https://discord.com/oauth2/authorize?client_id=1217168693327429845) to invite Serenity to your Discord server.
    
 2. **Command Prefix**: The default command prefix for Serenity is `.`.
 
