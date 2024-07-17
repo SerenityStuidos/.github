@@ -1,6 +1,6 @@
 # Serenity Discord Bot
 
-Welcome to Serenity, a multifunctional Discord bot designed to enhance your server experience. This README provides an overview of Serenity, its features, and how to use it in your Discord server.
+Welcome to Serenity, a multifunctional Discord bot designed to enhance your server experience. This README provides an overview of Serenity, its features, and how to use it in your Discord server. Along with all our projects that we've undertaken!
 
 ## Features
 - **Moderation**: Keep your server safe and clean with moderation commands.
