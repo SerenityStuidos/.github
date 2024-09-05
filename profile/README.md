@@ -29,7 +29,7 @@ Serenity Version 4 will introduce a complete bot rework and even more features a
 ## Development Team
 - [@iMerciless](https://github.com/iMercilessly)
 - [@JuicyOrange](https://www.github.com/JuicyOrange0615)
-- [@MaxJ]([https://github.com/the](https://github.com/thealternatedev))
+- [@MaxJ](https://github.com/thealternatedev)
 - [@Lilayuu](https://github.com/lilayuu)
 
 ## Support
